@@ -1,15 +1,19 @@
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Prompt", sans-serif;
   font-size: 16px;
   line-height: 1;
 }
 
 h1 {
-  font-family: "Varela Round",
-    sans-serif;
+  font-family: "Edu QLD Beginner",
+    cursive;
   margin-top: 10px;
 }
 
+p {
+  font-family: "Prompt", sans-serif;
+  padding-top: 10px;
+}
 textarea {
   background: transparent;
   border: none;
