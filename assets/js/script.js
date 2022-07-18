@@ -51,9 +51,7 @@ function usePlanner() {
     });
 }
 
-/**
- * CALL FUNCTIONS
- */
 
+// Call functions
 timeBlockColor();
 usePlanner();
