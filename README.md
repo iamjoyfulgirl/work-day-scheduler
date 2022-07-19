@@ -3,7 +3,7 @@
 * Deployed app: [Work Day Planner](https://iamjoyfulgirl.github.io/) 🔗 TODO
 * [GitHub Repository](https://github.com/iamjoyfulgirl/work-day-scheduler)
 ## Description: 
-This is a challengesimple calendar application that allows a user to save events for each hour of their work day.
+This is a simple calendar application that allows a user to save events for each hour of their work day. When the user makes an entry for a time slot and clicks the save icon, the value is saved to local storage where it can be retrieved across browser sessions.
 
 ## Features
 * HTML
@@ -13,7 +13,8 @@ This is a challengesimple calendar application that allows a user to save events
 * Moment.js
 
 [**Demo video**](https://drive.google.com/file/d/1gFLyPGAeMBZO3rbSrPYI_KtmwwoM6M1D/view) 🔗
-Screenshot TODO
+<img width="1283" alt="work day planner screenshot" src="https://user-images.githubusercontent.com/42161933/179862551-e3661a3a-9c94-4620-8e10-f880bdc700f5.png">
+
 
 ## Acceptance Criteria
 
