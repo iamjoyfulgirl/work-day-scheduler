@@ -1,6 +1,6 @@
 # Module 5 - Work Day Planner Challenge
 ## Websites:
-* Deployed app: [Work Day Planner](https://iamjoyfulgirl.github.io/) 🔗 TODO
+* Deployed app: [Work Day Planner](https://iamjoyfulgirl.github.io/work-day-scheduler/) 🔗
 * [GitHub Repository](https://github.com/iamjoyfulgirl/work-day-scheduler)
 ## Description: 
 This is a simple calendar application that allows a user to save events for each hour of their work day.
