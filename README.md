@@ -1,3 +1,20 @@
+# Module 5 - Work Day Planner Challenge
+## Websites:
+* Deployed app: [Work Day Planner](https://iamjoyfulgirl.github.io/) 🔗 TODO
+* [GitHub Repository](https://github.com/iamjoyfulgirl/work-day-scheduler)
+## Description: 
+This is a challengesimple calendar application that allows a user to save events for each hour of their work day.
+
+## Features
+* HTML
+* CSS
+* Bootstrap
+* jQuery
+* Moment.js
+
+[**Demo video**](https://drive.google.com/file/d/1gFLyPGAeMBZO3rbSrPYI_KtmwwoM6M1D/view) 🔗
+Screenshot TODO
+
 ## Acceptance Criteria
 
 ```
